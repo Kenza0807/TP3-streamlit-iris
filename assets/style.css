@@ -1,0 +1,11 @@
+h1, h2, h3, h4 {
+    color: #1a1a1a;
+}
+
+.block-container {
+    padding-top: 1.5rem;
+}
+
+.sidebar .sidebar-content {
+    background-color: #f5f7fa;
+}
